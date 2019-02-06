@@ -1,0 +1,82 @@
+﻿  ofxGAxis.cpp
+  ofxGAxisLabel.cpp
+  ofxGHistogram.cpp
+  ofxGLayer.cpp
+  ofxGPlot.cpp
+  ofxGPoint.cpp
+  ofxGTitle.cpp
+  ofxHistoryPlot.cpp
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxhistoryplot\src\ofxhistoryplot.cpp(105): warning C4018: '>': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxhistoryplot\src\ofxhistoryplot.cpp(110): warning C4018: '>': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxhistoryplot\src\ofxhistoryplot.cpp(148): warning C4018: '>=': signed/unsigned mismatch
+  ofxCvColorImage.cpp
+  ofxCvContourFinder.cpp
+  ofxCvFloatImage.cpp
+  ofxCvGrayscaleImage.cpp
+  ofxCvHaarFinder.cpp
+  ofxCvImage.cpp
+  ofxCvShortImage.cpp
+  ofxPlotter.cpp
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(67): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(70): warning C4018: '>': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(127): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(142): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(149): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine' (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(170): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(185): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(205): warning C4018: '<': signed/unsigned mismatch (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(193): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine' (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(201): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(508): note: see declaration of 'ofLine' (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(209): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(508): note: see declaration of 'ofLine' (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(211): warning C4996: 'ofCircle': Use ofDrawCircle instead (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(500): note: see declaration of 'ofCircle' (compiling source file ..\..\..\addons\ofxPlotter\src\ofxPlotter.cpp)
+  main.cpp
+  ofApp.cpp
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(67): warning C4018: '>': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(70): warning C4018: '>': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(127): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(142): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(149): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\ofApp.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine' (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(170): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(185): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(205): warning C4018: '<': signed/unsigned mismatch (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(193): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\ofApp.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine' (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(201): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\ofApp.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(508): note: see declaration of 'ofLine' (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(209): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\ofApp.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(508): note: see declaration of 'ofLine' (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(211): warning C4996: 'ofCircle': Use ofDrawCircle instead (compiling source file src\ofApp.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(500): note: see declaration of 'ofCircle' (compiling source file src\ofApp.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(67): warning C4018: '>': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(70): warning C4018: '>': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(127): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(142): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(149): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\main.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine' (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(170): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(185): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(110): warning C4018: '>': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(205): warning C4018: '<': signed/unsigned mismatch (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(193): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\main.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(510): note: see declaration of 'ofLine' (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(201): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\main.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(508): note: see declaration of 'ofLine' (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(209): warning C4996: 'ofLine': Use ofDrawLine instead (compiling source file src\main.cpp)
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(508): note: see declaration of 'ofLine' (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(231): warning C4018: '<': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\addons\ofxplotter\src\ofxplotter.h(211): warning C4996: 'ofCircle': Use ofDrawCircle instead (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(237): warning C4018: '<': signed/unsigned mismatch
+  c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofgraphics.h(500): note: see declaration of 'ofCircle' (compiling source file src\main.cpp)
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(302): warning C4018: '<': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\last_of\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myapps\pls\src\ofapp.cpp(335): warning C4018: '<': signed/unsigned mismatch
+  pls.vcxproj -> C:\LAST_OF\of_v0.10.1_vs2017_release (4)\of_v0.10.1_vs2017_release\apps\myApps\pls\bin\pls_debug.exe

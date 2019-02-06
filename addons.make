@@ -1,0 +1,4 @@
+ofxOpenCv
+ofxGrafica
+ofxHistoryPlot
+ofxPlotter
