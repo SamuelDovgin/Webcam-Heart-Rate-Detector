@@ -11,8 +11,8 @@ heartbeat. This is then calculated into standard beats per minute.
 An essential part of this project is first recognizing and tracking where human faces are located in a 
 video feed. This will allow a patch of skin, such as the forehead, to be tracked specifically.
 
-![heart rate reading](https://github.com/SamuelDovgin/Webcam-Heart-Rate-Detector/blob/master/gifs/ezgif.com-video-to-gif%20(1).gif)
-![webcam clip](https://github.com/SamuelDovgin/Webcam-Heart-Rate-Detector/blob/master/gifs/ezgif.com-video-to-gif.gif)
+![heart rate reading](https://github.com/SamuelDovgin/Webcam-Heart-Rate-Detector/blob/master/gifs/ezgif.com-video-to-gif%20(1).gif =250x250)
+![webcam clip](https://github.com/SamuelDovgin/Webcam-Heart-Rate-Detector/blob/master/gifs/ezgif.com-video-to-gif.gif =250x250)
 
 # Background Links
 https://web.stanford.edu/class/cs231a/prev_projects_2016/finalReport.pdf
