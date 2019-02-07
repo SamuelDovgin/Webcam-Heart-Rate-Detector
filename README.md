@@ -34,15 +34,14 @@ single heartrate per second data point. This optimized version of Fourier Transf
 to achieve live speed.
 
 # Progress Plan
-1. Learn about the uses of OpenCV.
-2. Become more familiar with the Eulerian Video Magnification research.
-3. Test several sample programs that utilizes the webcam. (OpenFrameworks has example programs)
-4. Setup and become familiar with FFTW library and its various approximations and uses.
-5. Use webcam feeds and apply it to Eulerian Video Magnification and FFTW algorithms.
-6. Tune the program until there is consistency and accuracy with the calulated heart rates.
-7. Create a real time OpenFrameworks application that displays the video feed and calulcated
+1. Become more familiar with the Eulerian Video Magnification research.
+2. Test several sample programs that utilizes the webcam. (OpenFrameworks has example programs)
+3. Setup and become familiar with FFTW library and its various approximations and uses.
+4. Use webcam feeds and apply it to Eulerian Video Magnification and FFTW algorithms.
+5. Tune the program until there is consistency and accuracy with the calulated heart rates.
+6. Create a real time OpenFrameworks application that displays the video feed and calulcated
    heartrate.
-8. If time remains, implement extensions to increase applicability of the project.
+7. If time remains, implement extensions to increase applicability of the project.
 
 # Other Extensions to Consider
 1. Turn this into an application that stores heart rate data for medical tracking.
